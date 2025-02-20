@@ -1,0 +1,6 @@
+name: ReFixPC
+version: '1.0'
+main: io.github.swagree.refixPC.Main
+commands:
+  rrp:
+    description: ok;
